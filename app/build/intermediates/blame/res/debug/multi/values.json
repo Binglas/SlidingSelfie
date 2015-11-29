@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 52,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 55,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 118,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 118,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 76,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 76,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 86,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 86,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 52,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 52,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 39,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 39,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 49,
+                    "endOffset": 699
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 49,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 704,
+                    "endColumn": 58,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 58,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 54,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 54,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 53,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 53,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 69,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1079,
+                        "endColumn": 69,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 84,
+                    "endOffset": 1022
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 84,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1027,
+                    "endColumn": 61,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 61,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 59,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 59,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 48,
+                    "endOffset": 1193
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 48,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1198,
+                    "endColumn": 99,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 99,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 137,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 137,
+                        "endOffset": 1073
+                    }
+                }
+            }
+        ]
+    }
+]

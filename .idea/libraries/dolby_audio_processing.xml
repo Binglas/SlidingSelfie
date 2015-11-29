@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dolby_audio_processing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/dolby_audio_processing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

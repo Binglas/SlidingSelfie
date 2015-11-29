@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.EZQUIZITO.SlidingSelfie"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="false"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_launcher" >
+        <activity
+            android:name="com.EZQUIZITO.SlidingSelfie.SplashScreen"
+            android:label="@string/title_activity_splash_screen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.EZQUIZITO.SlidingSelfie.SlidePuzzleMain"
+            android:configChanges="orientation"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.EZQUIZITO.SlidingSelfie.SplashScreenSliding"
+            android:label="@string/title_activity_splash_screen_sliding" >
+        </activity>
+    </application>
+
+</manifest>

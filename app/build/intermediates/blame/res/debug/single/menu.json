@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/menu/splash_screen.xml",
+        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/menu/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/menu/splash_screen_sliding.xml",
+        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/menu/splash_screen_sliding.xml"
+    }
+]
