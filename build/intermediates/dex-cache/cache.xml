@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/libs/dolby_audio_processing.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="cb8d9667b5fe3a90274634305861ef29e90524de">
-        <dex dex="/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/pre-dexed/debug/dolby_audio_processing_37417f860bf16661e5d67193baca6608547fb85e.jar" />
-    </item>
-
-</items>
+<items version="2" />

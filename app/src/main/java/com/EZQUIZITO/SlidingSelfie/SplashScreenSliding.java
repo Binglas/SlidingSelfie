@@ -22,7 +22,7 @@ public class SplashScreenSliding extends Activity {
 		setContentView(R.layout.activity_splash_screen_sliding);
 		Handler handler = new Handler();
 		handler.postDelayed(new Runnable() {
-			public void run() {startActivity(new Intent(getApplicationContext(),SlidePuzzleMain.class));
+			public void run() {startActivity(new Intent(getApplicationContext(),SlidePuzzleLogin.class));
 			SplashScreenSliding.this.finish();
 			}
 		},2000);

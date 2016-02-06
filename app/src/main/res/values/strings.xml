@@ -19,5 +19,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_splash_screen_sliding">SplashScreenSliding</string>
+    <string name="signin_other_error">There was an issue with sign in. Please try again later.</string>
+    <string name="sign_in_explanation">Sign to save your progress and keep it synchronized across all your devices.</string>
+    <string name="you_are_signed_in">You are signed in with Google. Your progress will be automatically saved online.</string>
+    <string name="sign_out">Sign Out</string>
 
 </resources>

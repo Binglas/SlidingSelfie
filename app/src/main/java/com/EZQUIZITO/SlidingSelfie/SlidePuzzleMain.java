@@ -18,6 +18,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;
+import android.util.Log;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.Menu;
@@ -27,6 +28,13 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.Toast;
+
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.drive.Drive;
+import com.google.android.gms.games.Games;
+import com.google.android.gms.plus.Plus;
+import com.google.example.games.basegameutils.BaseGameUtils;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -38,19 +46,6 @@ public class SlidePuzzleMain extends Activity implements MediaPlayer.OnCompletio
 
 
 
-    // Request code used to invoke sign in user interactions.
-    private static final int RC_SIGN_IN = 9001;
-
-    // Client used to interact with Google APIs.
-    private GoogleApiClient mGoogleApiClient;
-
-    private boolean mAutoStartSignInflow = true;
-
-    // Are we currently resolving a connection failure?
-    private boolean mResolvingConnectionFailure = false;
-
-    // Has the user clicked the sign-in button?
-    private boolean mSignInClicked = false;
 
     protected static final int MENU_SCRAMBLE = 0;
     protected static final int MENU_SELECT_IMAGE = 1;
@@ -85,9 +80,12 @@ public class SlidePuzzleMain extends Activity implements MediaPlayer.OnCompletio
     MediaPlayer mPlayer;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
 
         setVolumeControlStream(AudioManager.STREAM_MUSIC);
 

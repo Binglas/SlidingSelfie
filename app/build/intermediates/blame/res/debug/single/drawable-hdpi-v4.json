@@ -4,12 +4,12 @@
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png"
     },
     {
-        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/posterhc.jpg",
-        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/drawable-hdpi/posterhc.jpg"
-    },
-    {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/iconback.jpg",
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/drawable-hdpi/iconback.jpg"
+    },
+    {
+        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/posterhc.jpg",
+        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/drawable-hdpi/posterhc.jpg"
     },
     {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.9.png",
@@ -104,12 +104,12 @@
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png"
     },
     {
-        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png",
-        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
-    },
-    {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dolby.png",
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/res/drawable-hdpi/dolby.png"
+    },
+    {
+        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png",
+        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
     },
     {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_holo_light.png",
@@ -400,12 +400,12 @@
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
     },
     {
-        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png",
-        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
-    },
-    {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png",
         "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png",
+        "source": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
     },
     {
         "merged": "/Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slidinggif.gif",

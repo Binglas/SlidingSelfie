@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.EZQUIZITO.SlidingSelfie"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="17"
@@ -18,15 +18,24 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:logo="@drawable/ic_launcher" >
+        android:logo="@drawable/ic_launcher">
+
+        <meta-data android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+
         <activity
-            android:name="com.EZQUIZITO.SlidingSelfie.SplashScreen"
-            android:label="@string/title_activity_splash_screen" >
+            android:name=".SplashScreen"
+            android:label="@string/title_activity_splash_screen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -34,14 +43,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.EZQUIZITO.SlidingSelfie.SlidePuzzleMain"
+            android:name=".SlidePuzzleMain"
             android:configChanges="orientation"
-            android:label="@string/app_name" >
-        </activity>
+            android:label="@string/app_name"></activity>
         <activity
-            android:name="com.EZQUIZITO.SlidingSelfie.SplashScreenSliding"
-            android:label="@string/title_activity_splash_screen_sliding" >
-        </activity>
+            android:name=".SplashScreenSliding"
+            android:label="@string/title_activity_splash_screen_sliding"></activity>
+        <activity android:name=".SlidePuzzleLogin"></activity>
     </application>
 
 </manifest>
