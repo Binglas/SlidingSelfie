@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile files('libs/dolby_audio_processing.jar')
+    compile project(':BaseGameUtils')
 }

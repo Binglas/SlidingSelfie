@@ -17,6 +17,22 @@ ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSe
 		INJECTED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml
 uses-sdk
 ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [SlidingSelfie 2:BaseGameUtils:unspecified] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/SlidingSelfie 2/BaseGameUtils/unspecified/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:20.0.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:9:9-38
 		INJECTED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml
@@ -47,6 +63,19 @@ ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSe
 		ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:19:22-78
 application
 ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:21:5-45:19
+MERGED from [SlidingSelfie 2:BaseGameUtils:unspecified] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/SlidingSelfie 2/BaseGameUtils/unspecified/AndroidManifest.xml:30:5-31:19
+MERGED from [com.android.support:appcompat-v7:20.0.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:25:9-41
 	android:allowBackup
@@ -87,3 +116,17 @@ ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSe
 		ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:43:13-73
 	android:name
 		ADDED from /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/src/main/AndroidManifest.xml:42:13-75
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from [SlidingSelfie 2:BaseGameUtils:unspecified] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/SlidingSelfie 2/BaseGameUtils/unspecified/AndroidManifest.xml:26:5-28:32
+	android:name
+		ADDED from [SlidingSelfie 2:BaseGameUtils:unspecified] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/SlidingSelfie 2/BaseGameUtils/unspecified/AndroidManifest.xml:27:9-63
+	android:value
+		ADDED from [SlidingSelfie 2:BaseGameUtils:unspecified] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/SlidingSelfie 2/BaseGameUtils/unspecified/AndroidManifest.xml:28:9-29
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.1.0] /Users/joaozao/Documents/Dev_Android/MarshmallowPermissions/SlidingSelfie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:23:13-66
